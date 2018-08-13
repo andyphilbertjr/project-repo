@@ -1,4 +1,4 @@
-# PWJ Project
+# JavaScript Coding Challenges
 
 ## Instructions
 Below please find a series of 13 code challenges to be completed in JavaScript. **The first 7 challenges are mandatory for this assignment (estimated time spent: 1-1.5 hours).** The remaining 4 code challenges may be completed as *bonus challenges*.
