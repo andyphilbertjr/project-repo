@@ -3,7 +3,6 @@
 ## Instructions
 Below please find a series of 13 code challenges to be completed in JavaScript. **The first 7 challenges are mandatory for this assignment (estimated time spent: 1-1.5 hours).** The remaining 4 code challenges may be completed as *bonus challenges*.
 <br><br>
-Please create a new branch following the format of "#{yourname}-coach-pwj-project" and submit a PR with your solution code. Send an email to advisors@codecademy.com once you have completed this assignment with a link to your PR.
 
 ## Mandatory Code Challenges (1-7)
 
