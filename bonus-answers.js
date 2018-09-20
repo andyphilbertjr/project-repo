@@ -1,7 +1,7 @@
 //Bonus Code Challenges 
 
 //sort Years Problem 8
-var yearsArray = [ 1899, 2012, 1960, 1954, 2018 ]
+const yearsArray = [ 1899, 2012, 1960, 1954, 2018 ]
 
 const sortYears = (yrArray) => yrArray.sort(( a, b ) => a - b)
 sortYears(yearsArray).reverse()
@@ -43,6 +43,6 @@ const dogFactory = (name = '', breed = '', weight = Number) => {
           weight: weight
         }
 }
-console.log(dogFactory('Joe', 'Pug', 27))
+//console.log(dogFactory('Joe', 'Pug', 27))
 
 //end of problem 11 
