@@ -1,7 +1,7 @@
 # JavaScript Coding Challenges
 
 ## Instructions
-Below please find a series of 13 code challenges to be completed in JavaScript. **The first 7 challenges are mandatory for this assignment (estimated time spent: 1-1.5 hours).** The remaining 4 code challenges may be completed as *bonus challenges*.
+Below please find a series of 11 code challenges to be completed in JavaScript. **The first 7 challenges are mandatory for this assignment (estimated time spent: 1-1.5 hours).** The remaining 4 code challenges may be completed as *bonus challenges*.
 <br><br>
 
 ## Mandatory Code Challenges (1-7)
@@ -126,10 +126,10 @@ Below please find a series of 13 code challenges to be completed in JavaScript. 
    You can test your function when you're ready by passing in the years array or by making your own array of years.
    
    ```
-   const greetings = ['hello', 'hi', 'heya', 'oi', 'hey', 'yo'];
+   const yrs = [ 1899, 2012, 1960, 1954, 2018 ];
 
-   console.log(shoutGreetings(greetings))
-   // Should print [ 'HELLO!', 'HI!', 'HEYA!', 'OI!', 'HEY!', 'YO!' ]
+   console.log(sortYears(yrs));
+   // Should print [ 2018, 2012, 1960, 1954, 1899 ];
    ```
 
 9) **justCoolStuff()**
@@ -147,7 +147,7 @@ Below please find a series of 13 code challenges to be completed in JavaScript. 
 
 10) **isTheDinnerVegan()**
 
-     Write a function `isTheDinnerVegan()` hat takes in an array of food objects in the format:
+     Write a function `isTheDinnerVegan()` that takes in an array of food objects in the format:
 
      ```
      {name: 'cabbage', source: 'plant' }
